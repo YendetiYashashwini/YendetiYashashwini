@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Yashashwini</h1>
-<h3 align="center">Aspiring Software Development Engineer | AI & Machine Learning Enthusiast</h3>
+<h1 align="center">Hey, I'm Yashashwini 👋</h1>
+
+<p align="center">
+  <b>3rd Year CSE (AI & ML) Student · Learns by Building · SDE Intern Seeker</b>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashashwini-yendeti-32b305322/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:yashashwini1207@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
 
@@ -14,103 +17,69 @@
 
 ## 👩‍💻 About Me
 
-🎓 3rd Year Computer Science Engineering Student
+I'm a CSE (AI & ML) student at **VVIT, Guntur** who believes in learning by building.
 
-💻 Aspiring Software Development Engineer (SDE)
-
-🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI
-
-📚 Currently strengthening my DSA skills while building real-world AI applications
-
-🚀 I enjoy learning in public by sharing my journey, projects, and technical insights on LinkedIn.
-
----
-
-## 🌱 Currently Learning
-
-- Data Structures & Algorithms
-- Machine Learning
-- AI Agents
-- FastAPI
-- Retrieval-Augmented Generation (RAG)
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-- Java
-- Python
-- JavaScript
-- HTML
-- CSS
-
-### AI / ML
-- NumPy
-- Pandas
-- Scikit-learn
-
-### Backend
-- FastAPI
-- Flask
-
-### Database
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- VS Code
+- 🤖 I build AI systems — from **LLM-powered agents** to **ML pipelines** processing 100K+ data points
+- 🛠️ Currently on a **100 Days DSA + AI/ML Journey** — documenting everything publicly on LinkedIn
+- 🧠 Preparing for **GATE CS 2027** alongside building real-world projects
+- 💡 My philosophy: *understand the theory, then immediately build something with it*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🍽️ AI Food Recommendation Agent *(In Progress)*
-
-An AI-powered food recommendation system that understands natural language queries and suggests personalized meals.
-
-**Tech Stack**
-- Python
-- FastAPI
-- LLM
-- Hugging Face
-- FAISS
+### 🍽️ [AI Food Ordering Agent](https://github.com/YendetiYashashwini/ai-food-ordering-agent) *(In Progress)*
+A conversational AI agent that handles food orders through natural language with multi-turn dialogue management.
+- **What I built:** Multi-turn dialogue engine, 5+ tool-calling functions, FastAPI backend, Streamlit frontend
+- **What I learned:** LLM tool-calling, prompt engineering, API design, cloud deployment
+- `Python` `FastAPI` `Streamlit` `LLM APIs` `Prompt Engineering` `Docker`
 
 ---
 
-### 📚 100 Days DSA + AI Journey
+### 🏆 [Intelligent Candidate Ranking System](https://github.com/bhanuxai/redrob-intelligent-candidate-ranking) — INDIA RUNS Hackathon
+AI-based resume ranking system processing **100K+ candidate profiles** — built as Data & Feature Engineer.
+- **My contribution:** Designed `preprocess.py`, `feature_builder.py`, `candidate_index.py` — the full feature engineering pipeline
+- **Impact:** Improved candidate ranking accuracy by ~15% through structured feature extraction
+- `Python` `Pandas` `Scikit-learn` `NLP` `Git`
 
-Sharing my daily learning journey by solving DSA problems and exploring AI & Machine Learning concepts.
+---
+
+### 🌐 [Personal Portfolio Website](https://github.com/YendetiYashashwini)
+Fully responsive portfolio with mobile-first design, smooth scroll navigation, and clean vanilla JS.
+- `HTML` `CSS` `JavaScript`
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · Java · JavaScript · C
+
+**AI / ML:** Scikit-learn · Pandas · NumPy · NLP · LLM APIs · Prompt Engineering
+
+**Backend & Tools:** FastAPI · Git · GitHub · VS Code
+
+**Database:** Oracle SQL
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YendetiYashashwini&show_icons=true&theme=github_dark)
-
-![](https://streak-stats.demolab.com?user=YendetiYashashwini&theme=github-dark-blue)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YendetiYashashwini&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YendetiYashashwini&show_icons=true&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=YendetiYashashwini&theme=github-dark-blue" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YendetiYashashwini&layout=compact&theme=github_dark" />
+</p>
 
 ---
 
-## 🎯 2026 Goals
+## 📚 Currently Learning
 
-- ✅ Become strong in DSA
-- 🚀 Build impactful AI projects
-- 💼 Secure an SDE Internship
-- 🤖 Explore AI Agents & GenAI
-- 🌍 Contribute to Open Source
+`DSA` `Machine Learning` `AI Agents` `RAG` `System Design basics`
 
 ---
 
 ## 🤝 Let's Connect
 
-💼 LinkedIn:
-https://www.linkedin.com/in/yashashwini-yendeti-32b305322/
+If you're building something interesting in AI/ML or looking for a passionate intern — let's talk!
 
-📧 Email:
-yashashwini1207@gmail.com
-
-⭐ Thanks for visiting my profile!
+📧 yashashwini1207@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/yashashwini-yendeti-32b305322/)
