@@ -58,7 +58,7 @@ A conversational AI agent that handles food orders through natural language with
 
 ## 📚 Currently Learning
 
-`DSA` `Machine Learning` `AI Agents` `RAG` `System Design basics`
+`DSA` `Machine Learning` `AI Agents` 
 
 ---
 
