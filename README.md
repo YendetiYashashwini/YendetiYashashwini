@@ -48,13 +48,11 @@ A conversational AI agent that handles food orders through natural language with
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YendetiYashashwini&show_icons=true&theme=github_dark" />
-  <img src="https://streak-stats.demolab.com?user=YendetiYashashwini&theme=github-dark-blue" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YendetiYashashwini&layout=compact&theme=github_dark" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=YendetiYashashwini&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=YendetiYashashwini&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=YendetiYashashwini&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
