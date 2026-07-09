@@ -19,7 +19,7 @@
 
 I'm a CSE (AI & ML) student at **VVIT, Guntur** who believes in learning by building.
 
-- 🤖 I build AI systems — from **LLM-powered agents** to **ML pipelines** processing 100K+ data points
+- 🤖 I build AI systems — from **LLM-powered agents** to **end-to-end ML pipelines**
 - 🛠️ Currently on a **100 Days DSA + AI/ML Journey** — documenting everything publicly on LinkedIn
 - 🧠 Preparing for **GATE CS 2027** alongside building real-world projects
 - 💡 My philosophy: *understand the theory, then immediately build something with it*
@@ -36,17 +36,8 @@ A conversational AI agent that handles food orders through natural language with
 
 ---
 
-### 🏆 [Intelligent Candidate Ranking System](https://github.com/bhanuxai/redrob-intelligent-candidate-ranking) — INDIA RUNS Hackathon
-AI-based resume ranking system processing **100K+ candidate profiles** — built as Data & Feature Engineer.
-- **My contribution:** Designed `preprocess.py`, `feature_builder.py`, `candidate_index.py` — the full feature engineering pipeline
-- **Impact:** Improved candidate ranking accuracy by ~15% through structured feature extraction
-- `Python` `Pandas` `Scikit-learn` `NLP` `Git`
-
 ---
 
-### 🌐 [Personal Portfolio Website](https://github.com/YendetiYashashwini)
-Fully responsive portfolio with mobile-first design, smooth scroll navigation, and clean vanilla JS.
-- `HTML` `CSS` `JavaScript`
 
 ---
 
