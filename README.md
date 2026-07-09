@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/yashashwini-yendeti-32b305322/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:yashashwini1207@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" />
+  <a href="https://mail.google.com/mail/?view=cm&to=yashashwini1207@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-yashashwini1207@gmail.com-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
 
@@ -33,11 +33,6 @@ A conversational AI agent that handles food orders through natural language with
 - **What I built:** Multi-turn dialogue engine, 5+ tool-calling functions, FastAPI backend, Streamlit frontend
 - **What I learned:** LLM tool-calling, prompt engineering, API design, cloud deployment
 - `Python` `FastAPI` `Streamlit` `LLM APIs` `Prompt Engineering` `Docker`
-
----
-
----
-
 
 ---
 
