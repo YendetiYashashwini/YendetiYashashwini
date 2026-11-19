@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yashashwini-yendeti-32b305322/">
+  <a href="https://www.linkedin.com/in/yashashwini-yendeti">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=yashashwini1207@gmail.com" target="_blank">
